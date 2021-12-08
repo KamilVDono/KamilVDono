@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KamilVDono
 - 👀 I’m interested in GameDev (desktop, mobile, VR/AR), Computer Graphics (rendering, shader and so on) and making life easier, happier and more enjoyable.
-- 🌱 I’m currently learning Flutter and Dart for life gamification app and Vulkan in order to build my own game engine (goal is to release 1 AR and 1 VR game made with my own engine)
+- 🌱 I’m currently learning DOD (Data oriented design) and ECS (Entity, component, system) by making my own implementation in Unity. In future I would like to learn Flutter and Dart for life gamification app and Vulkan in order to build my own game engine (goal is to release 1 AR and 1 VR game made with my own engine)
 - 📫 How to reach me: [LIn](https://www.linkedin.com/in/kamil-socha/)
 
 
